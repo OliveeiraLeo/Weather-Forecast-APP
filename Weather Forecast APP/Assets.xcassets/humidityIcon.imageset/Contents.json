@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "humidity.fill.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
